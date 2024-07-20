@@ -4,7 +4,7 @@
 ![Tampilan Web](Home.jpeg)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
 
 ### Dashboard Admin
-![Tampilan Web](DashBoard.png)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
+![Tampilan Web](DataMobil.png)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
 
 ## Prerequisites
 
