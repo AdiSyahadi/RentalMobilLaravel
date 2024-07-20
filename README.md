@@ -1,4 +1,7 @@
+```markdown
 # RentalMobil Laravel
+
+![Tampilan Web](Home.jpg)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
 
 ## Prerequisites
 
@@ -119,7 +122,7 @@ Deskripsi singkat tentang struktur proyek jika perlu.
 
 ## Penggunaan
 
-untuk akses halaman admin 
+Untuk akses halaman admin 
 http://127.0.0.1:8000/admin
 
 user/email : juned@gmail.com
@@ -136,9 +139,4 @@ Deskripsi lisensi proyek. Contoh:
 MIT License. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
-
-Informasi kontak Anda atau pengembang utama proyek.
-
----
-
-Sesuaikan README ini dengan detail spesifik proyek Anda, seperti nama proyek, URL repository, dan instruksi khusus yang mungkin diperlukan untuk aplikasi Anda.
+adisyahadi41@gmail.com
