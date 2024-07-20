@@ -3,6 +3,9 @@
 
 ![Tampilan Web](Home.jpeg)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
 
+### Dashboard Admin
+![Tampilan Web](DashBoard.png)  <!-- Ganti path dan nama file sesuai dengan lokasi gambar kamu -->
+
 ## Prerequisites
 
 Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut yang terinstal pada sistem Anda:
